@@ -1,4 +1,4 @@
-# Hotel_Management
+# Simple Hotel Management Console Application
 This repo contains the basic hotel management console application codebase.
 ### Steps to Run Project:
 * Copy the project Url
