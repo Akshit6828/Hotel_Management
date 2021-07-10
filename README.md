@@ -3,7 +3,8 @@ This repo contains the basic hotel management console application codebase.
 ### Steps to Run Project:
 * Copy the project Url
 * Open Terminal and use command `git clone <url>`
-* Open `main.exe` and run
+* Open `main.exe`
+* Right Click in Editor and *RUN*
 
 ### PS:➡️ I made this small baby project just for fun. 😄 As I was just free for 1 hour so i thought to code it casually. 
 
